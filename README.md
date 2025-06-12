@@ -1,4 +1,4 @@
-Hello, **Glaizel** here!
+👋🏼 Hello, **Glaizel** here! 👩🏼‍💻
 
 I'm currently a graduating student from the **Polytechnic University of the Philippines** 🎓  
 I'm still learning, but here’s a little bit about me:
