@@ -5,6 +5,7 @@ I'm still learning, but here’s a little bit about me:
 
 💡 I'm curious about tech and love exploring how things work  
 🧠 I enjoy thinking up ideas and slowly bringing them to life — even if it's one small piece at a time.
+
 🔧 I'm building my confidence by working on small projects and learning as I go  
 🌱 I believe in learning at my own pace — progress over perfection  
 📁 This GitHub is where I share my work, experiments, and growth
